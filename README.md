@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hi%2C%20I'm%20Siwar%20%F0%9F%91%8B&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineering%20Student%20at%20ESPRIT%20%C2%B7%20Tunisia&descAlignY=58&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:44475a,100:6272a4&height=200&section=header&text=Hi%2C%20I'm%20Siwar%20%F0%9F%91%8B&fontSize=50&fontColor=ff79c6&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineering%20Student&descAlignY=58&descColor=8be9fd" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Building+things+end-to-end+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+Docker;From+REST+APIs+to+polished+UIs;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -25,8 +25,8 @@ it's about clean architecture, readable code, and solving the right problem.
 ---
 
 ## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siwar_Khalfaoui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siwar-khalfaoui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--siwar.vercel.app-bd93f9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-siwar.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-siouarkhalfaoui@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siouarkhalfaoui@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SiwarKhalfaoui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiwarKhalfaoui)
 
